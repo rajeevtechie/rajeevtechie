@@ -38,7 +38,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevtechie&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Rajeev's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeevtechie&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1" alt="Rajeev's GitHub stats" />
+
 </p>
 
 <p align="center">
