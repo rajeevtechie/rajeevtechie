@@ -53,6 +53,7 @@
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevtechie&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=1" alt="Top Languages" />
+   <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevtechie&layout=compact&theme=tokyonight&cache_seconds=0&v=3" alt="Top Languages" />
 </p>
+
