@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajeevtechie&theme=tokyonight" alt="Rajeev's streak stats" />
+  <img src="https://streak-stats.demolab.com?user=rajeevtechie&theme=tokyonight&hide_border=false&date_format=M%20j%2C%20Y" alt="Rajeev's streak stats" />
 </p>
 
 <p align="center">
