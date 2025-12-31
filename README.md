@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevtechie&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1" alt="Rajeev's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rajeevtechie&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Rajeev's GitHub stats" />
 </p>
 
 <p align="center">
@@ -52,11 +52,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevtechie&theme=tokyo-night&cache_seconds=1" alt="Rajeev's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevtechie&theme=tokyo-night" alt="Rajeev's activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeevtechie&layout=compact&theme=tokyonight&cache_seconds=1" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=rajeevtechie&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
