@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 My Portfolio: [www.rajeevkumargupta.com.np](https://www.rajeevkumargupta.com.np)
+- 👨‍💻 My Portfolio: [rajeevtechie.github.io/portfolio/](https://rajeevtechie.github.io/portfolio/)
 
 - 📫 How to reach me: **rajeevkgupta598@gmail.com**
 
